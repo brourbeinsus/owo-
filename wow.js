@@ -1,5 +1,5 @@
 setTimeout(myFunction, 1000);
 
 function myFunction() {
-  alert('Hello');
+  window.open('https://shadowbreakergd.github.io/owo/');
 }
